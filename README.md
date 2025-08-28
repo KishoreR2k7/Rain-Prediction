@@ -49,7 +49,7 @@ The dataset contains historical weather data, including features such as:
 
 ---
 
-## ⚡ Features Used
+## Features Used
 In the current model, we use:
 
 - Temperature  
@@ -61,7 +61,7 @@ In the current model, we use:
 
 ---
 
-## 🤖 Model
+##  Model
 - **Algorithm:** Random Forest Classifier  
 - **Train/Test Split:** 80% train, 20% test  
 - **Accuracy:** ~76%  
